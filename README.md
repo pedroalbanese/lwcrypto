@@ -8,7 +8,7 @@ package main
 import (
 	"crypto/rand"
 
-	"github.com/ericlagergren/lwcrypto/ascon"
+	"github.com/pedroalbanese/lwcrypto/ascon"
 )
 
 func main() {
